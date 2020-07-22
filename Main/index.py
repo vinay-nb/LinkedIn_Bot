@@ -24,11 +24,11 @@ driver.implicitly_wait(40)
 
 username = driver.find_element_by_xpath('//*[@id="username"]')
 # enter phone/email
-username.send_keys("vinayn075@gmail.com")
+username.send_keys("")
 
 password = driver.find_element_by_xpath('//*[@id="password"]')
 # enter password
-password.send_keys("<nb6867>")
+password.send_keys("")
 
 #waits for some time 
 driver.implicitly_wait(30)

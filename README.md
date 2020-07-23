@@ -22,3 +22,7 @@ Command to run the script
 
 `python3 index.py`
 
+You can read more about selenium library here  
+https://www.selenium.dev/documentation/en/
+
+

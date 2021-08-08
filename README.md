@@ -1,6 +1,6 @@
 # LinkedIn_Bot
 
-To view demo - drive.google.com/file/d/1idye7lwq_kl2vel_8yc_zrfaaujmvdqw/view?usp=sharing
+To view demo - https://drive.google.com/file/d/1IdYe7LWq_Kl2VeL_8yc_zRfaAUJMVDqw/view?usp=sharing
 
 **This script helps you to send personalised note to your new connections**   
 
